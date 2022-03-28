@@ -74,7 +74,7 @@ client.connect(function(err) {
             //console.log(final);
 
         } else {
-            console.log("no data");
+            console.log("no Data");
         }
 
     });
